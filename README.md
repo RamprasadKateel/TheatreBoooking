@@ -14,8 +14,8 @@ Users need to have the following:
 ```
  install JDK/JRE 1.5 and above.
  install eclipse latest version
-  Within Eclipse install Cucumber Plugin - (http://toolsqa.com/cucumber/install-cucumber-eclipse-plugin/)
-  Within Eclipse install Maven Plugin - (http://toolsqa.com/java/maven/how-to-install-maven-eclipse-ide/)
+ Within Eclipse install Cucumber Plugin - (http://toolsqa.com/cucumber/install-cucumber-eclipse-plugin/)
+ Within Eclipse install Maven Plugin - (http://toolsqa.com/java/maven/how-to-install-maven-eclipse-ide/)
 ```
 
 ### Installing
@@ -47,7 +47,7 @@ To Run the jar file
 
 ```
 
-## Running the tests
+## Running the tests on eclipse
 ```
 To Run the test cases
 •	Right-click on the project
