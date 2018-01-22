@@ -30,7 +30,7 @@ To Build Jar file
 •	right click on the project , click Run As.
 •	Click on Maven build , please provide "Goals" details as "-e clean verify install".
 •	and click on skip test.
-•	Executable Jar will be created with the name Theatre-0.0.1-SNAPSHOT.jar in target folder of the project.
+•	Executable Jar will be created with the name TheatreBooking-0.0.1-SNAPSHOT.jar in target folder of the project.
 ```
 
 ```
