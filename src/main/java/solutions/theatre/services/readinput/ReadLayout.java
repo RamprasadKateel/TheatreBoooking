@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 import solutions.theatre.services.pojo.Section;
 import solutions.theatre.utilities.config.*;
+/**
+ * @author Ram
+ * This class handles the Layout request
+ */
 public class ReadLayout {
     private List<Section> sectionList = null;
 
