@@ -1,10 +1,10 @@
 # Theatre-Booking
 
-This project is used to book the tickets 
+This project is used to book the tickets for our theatre. The algorithms I am using is both Best-fit and first-fit in order to process request optimally and as per requirements. 
 
 ## Getting Started
 
-This project is built using Maven, we are generating executable JAR to process theinput from the users.
+This project is built using Maven, we are generating executable JAR to process the input from the users.
 
 ### Prerequisites
 
