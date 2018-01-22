@@ -16,7 +16,7 @@ Users need to have the following:
  install eclipse latest version
   Within Eclipse install Cucumber Plugin - (http://toolsqa.com/cucumber/install-cucumber-eclipse-plugin/)
   Within Eclipse install Maven Plugin - (http://toolsqa.com/java/maven/how-to-install-maven-eclipse-ide/)
-
+```
 
 ### Installing
 
@@ -31,7 +31,7 @@ To Build Jar file
 •	Click on Maven build , please provide "Goals" details as "-e clean verify install".
 •	and click on skip test.
 •	Executable Jar will be created with the name Theatre-0.0.1-SNAPSHOT.jar in target folder of the project.
-
+```
 
 ```
 To Run the java project.
@@ -39,12 +39,13 @@ To Run the java project.
 •	Click on Run As and click on Java Application.
 
 ```
+```
 To Run the jar file
 •	Please go to the Jar folder on your system.
 •	Open the terminal or powershell and enter command.
 •	java -jar *jar file name*.
 
-
+```
 
 ## Running the tests
 ```
